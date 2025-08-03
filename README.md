@@ -6,7 +6,7 @@ This is a test mentorship project to evaluate the GitHub + Google Colab workflow
 
 Click the badge below to run this notebook in Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/test-project-1/blob/main/main.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adhvaryu-athena/sample-repo/blob/main/main.ipynb)
 
 ## 📂 Project Structure
 
